@@ -1,6 +1,6 @@
 function reverse(word) {
     // Write your algorithm here
-    // 'bake' => 'ekab'
+    // 'raw' => 'war'
     // const wordArray = word.split("");
     // const reversedWordArray = wordArray.reverse();
     // const reversedWord = reversedWordArray.join("");
